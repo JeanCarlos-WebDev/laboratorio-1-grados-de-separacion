@@ -1,1 +1,1 @@
-# laboratorio-1-grados-de-separaci-n
+# laboratorio-1-grados-de-separacion
